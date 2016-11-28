@@ -10,3 +10,5 @@ http://emacsist.github.io/2015/10/16/Maven-%E4%B8%8E-Spring-%E7%BB%93%E5%90%88%E
 自己封装的poi操作Excel工具类——项目经理再也不用担心我的Excel操作了，poi工具类 ：
 http://www.bkjia.com/ASPjc/903727.html
 
+必读博客：
+http://blog.csdn.net/lifetragedy/article/list/2
