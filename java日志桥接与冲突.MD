@@ -82,3 +82,6 @@ Java日志框架slf4j、jcl、jul、log4j1、log4j2、logback大总结
 jul-to-slf4j ： jdk-logging切换到slf4j
 slf4j-jdk14 : slf4j切换到jdk-logging
 如果这两者共存的话，必然造成相互委托，造成内存溢出
+
+## 引用资料：
+> https://blog.csdn.net/yycdaizi/article/details/8276265
